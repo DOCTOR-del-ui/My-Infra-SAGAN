@@ -1,0 +1,6 @@
+*.md
+*.ipynb
+
+__pycache__/
+attn/
+logs/
